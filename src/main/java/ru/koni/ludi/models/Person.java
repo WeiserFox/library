@@ -5,9 +5,6 @@ import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.Size;
 
-/**
- * @author Neil Alishev
- */
 public class Person {
     private int id;
 
